@@ -38,3 +38,5 @@ Auth::routes();
 
  Route::get('user_subjects/{id}',[UserController::class,'user_subjects'])->name('user_subjects');
  Route::get('add_user_subject/{id}',[UserController::class,'add_user_subject'])->name('add_user_subject');
+
+//  LALALALA
